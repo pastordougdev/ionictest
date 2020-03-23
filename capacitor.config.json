@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "jeopardy-ionic-js",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+
+:root {
+    --ion-toolbar-background: var(--ion-color-secondary);
+    --ion-tab-bar-background: var(--ion-color-secondary);
+    --ion-tab-bar-color-selected: var(--ion-color-secondary-contrast);
+    --ion-toolbar-color: var(--ion-color-secondary-contrast);
+}
+
+ion-back-button {
+    color: var(--ion-color-secondary-contrast);
+}

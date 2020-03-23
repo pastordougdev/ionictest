@@ -1,0 +1,7 @@
+{
+  "name": "jeopardy-ionic-js",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
